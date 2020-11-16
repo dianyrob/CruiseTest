@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Bahamas cruises"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="40.522">
+  <properties />
+  
+  
+            <testcase name="SearchBahamasCruise" time="16.651" classname="testcases.SearchForCruises" />
+                <testcase name="ChooseASail" time="23.871" classname="testcases.SearchForCruises" />
+      
+</testsuite>
